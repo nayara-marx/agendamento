@@ -32,4 +32,8 @@ O sistema busca reduzir o tempo de espera e a burocracia nos atendimentos de eme
 - Envio de lembretes ou confirmações
 
 ## 🚀 Como Rodar o Projeto
+##Como baixar projeto
+```bash
+git clone
+```
 
