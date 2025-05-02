@@ -16,12 +16,10 @@ O sistema busca reduzir o tempo de espera e a burocracia nos atendimentos de eme
 - Gestores de unidades de saúde pública
 
 ## 💻 Tecnologias Utilizadas
-- **Backend**: C# com .NET 6 (MVC)
-- **Banco de Dados**: SQL Server
-- **ORM**: Entity Framework
+- **Backend**: Laravel
+- **Banco de Dados**: MySql
 - **Versionamento**: Git e GitHub
-- **Frontend Web**: Razor Pages / ASP.NET
-- **Interface Mobile**: React Native com Expo
+- **Frontend Web**: React
 
 ## ⚙️ Funcionalidades
 - Cadastro de pacientes
@@ -35,14 +33,3 @@ O sistema busca reduzir o tempo de espera e a burocracia nos atendimentos de eme
 
 ## 🚀 Como Rodar o Projeto
 
-### 🔧 Backend (Web)
-
-#### Pré-requisitos
-- Visual Studio 2022 ou superior (com .NET 6 instalado)
-- SQL Server
-- Git
-
-#### Passo a Passo
-1. Clone o repositório:
-   ```bash
-   git clone <repositorio-no-github>
