@@ -32,8 +32,22 @@ O sistema busca reduzir o tempo de espera e a burocracia nos atendimentos de eme
 - Envio de lembretes ou confirmações
 
 ## 🚀 Como Rodar o Projeto
-##Como baixar projeto
+## Como baixar projeto:
 ```bash
-git clone
+git clone https://github.com/nayara-marx/agendamento.git
 ```
+## Entrar no projeto:
+```cd
+```
+## Instalar dependencias :
+```composer install
+```
+## Copiar arquivo de configuração de ambiente:
+```cp .env.example .env
+```
+
+
+
+
+
 
