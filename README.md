@@ -62,7 +62,7 @@ php artisan migrate
 php artisan serve
 ```
 
-### Colaboração
+## Colaboração
 
 Se você deseja colaborar com o projeto, por favor, siga as seguintes etapas:
 
