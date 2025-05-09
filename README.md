@@ -83,7 +83,13 @@ Ao enviar um pull request, por favor, certifique-se de que ele atende aos seguin
 * O pull request deve ter sido revisado por pelo menos uma pessoa antes de ser mergeado.
 
 ## 👥 Participantes do Projeto
+- **Eduarda Hirt** - (https://github.com/eduarda-hirt)
+- **Isabella Ruthes** - (https://github.com/isabellaruthes)
 - **João Vitor Graf** - (https://github.com/joaovitorgraf)
+- **Luiz Henrique Bonin** - (https://github.com/InsBonin)
+- **Nathália Paluch Sampaio** - (https://github.com/NatiPaluch)
+- **Nayara Lopes Marx** - (https://github.com/nayara-marx)
+  
 
 
 
