@@ -82,6 +82,8 @@ Ao enviar um pull request, por favor, certifique-se de que ele atende aos seguin
 * O pull request deve ter sido testado e funcionar corretamente;
 * O pull request deve ter sido revisado por pelo menos uma pessoa antes de ser mergeado.
 
+## 👥 Participantes do Projeto
+- **João Vitor Graf** - (https://github.com/joaovitorgraf)
 
 
 
